@@ -1,1 +1,3 @@
 Stam text - a.txt file
+Another text.
+Another editing to a.txt
